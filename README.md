@@ -78,9 +78,9 @@
 
 # API
   - Manualmente
-  - [Postman](https://www.getpostman.com/)
-  - [Fiddler](http://www.telerik.com/fiddler)
-  - [Curl](https://curl.haxx.se/)
+    - [Postman](https://www.getpostman.com/)
+    - [Fiddler](http://www.telerik.com/fiddler)
+    - [Curl](https://curl.haxx.se/)
 
   - Automação
     - Ruby
