@@ -2,12 +2,13 @@
   - [Lisa Crispin](http://lisacrispin.com/)
 
   - [Janet Gregory](http://janetgregory.ca/)
-   - [Agile Testing não é uma metodologia](http://janetgregory.ca/agile-testing-is-not-a-methodology/)
+    - [Agile Testing não é uma metodologia](http://janetgregory.ca/agile-testing-is-not-a-methodology/)
 
   - Livros
 
   - Eventos
-   - [Agile Testing Day](https://agiletestingdays.com/)
+    - [Agile Testing Day](https://agiletestingdays.com/)
+    - [Conferência Agile Testers](http://conferencia.agiletesters.com.br/)
 
 # Mobile
 
