@@ -1,10 +1,16 @@
 # Agile Testing
+
+  - [O que é?](https://www.concretesolutions.com.br/2017/02/20/agile-testing-o-que-e/)
+    - By Elessandra
+
   - [Lisa Crispin](http://lisacrispin.com/)
     - Lisa Crispin é uma das referências quando falamos sobre Agile Testing, além se ser ativa na comunidade até hoje tem bastante material publicado no seu site e nas redes sociais.
     - [Posts](http://lisacrispin.com/post-archives)
 
   - [Janet Gregory](http://janetgregory.ca/)
+    - Janet Gregory junto com a Lisa Crispin são referência quando se fala em Agile Testing, também autora dos livros Agile Testing e More Agile Testing.
     - [Agile Testing não é uma metodologia](http://janetgregory.ca/agile-testing-is-not-a-methodology/)
+    - [Posts](http://janetgregory.ca/blog/)
 
   - [Growing Agile](https://www.growingagile.co.za/)
     - Um site de uma consultoria que faz diversos tipos de coaching incluindo Agile Testing, tem bastante conteúdos consideráveis, criado por duas mulheres Karen Greaves e Sam Laing.
@@ -19,6 +25,11 @@
   - Eventos
     - [Agile Testing Day](https://agiletestingdays.com/)
     - [Conferência Agile Testers](http://conferencia.agiletesters.com.br/)
+
+  - Links
+    - [By Atlassian](https://www.atlassian.com/agile/testing)
+    - [By Guru99](http://www.guru99.com/agile-scrum-extreme-testing.html)
+    - [By Frederico Moreira](http://www.fredmoreira.com/2014/08/50centsagiletesting.html)
 
 # Mobile
 
