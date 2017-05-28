@@ -105,12 +105,31 @@
 # BDD
 
 # ATDD
+  - [Conceito](http://testobsessed.com/wp-content/uploads/2011/04/atddexample.pdf)
+  - [Passo a Passo](https://www.infoq.com/br/articles/atdd-passo-a-passo)
+  - [Livro](https://www.amazon.com/ATDD-Example-Test-Driven-Development-Addison-Wesley/dp/0321784154)
 
 # Especificação por Exemplo
+  - [Gojko Adzic](https://gojko.net/books/specification-by-example/)
+  - By Samanta Cicília
+    - [Parte 1](https://www.concretesolutions.com.br/2016/09/22/especificacao-por-exemplo-1/)
+    - [Parte 2](https://www.concretesolutions.com.br/2016/09/23/especificacao-por-exemplo-2/)
+    - [Parte 3](https://www.concretesolutions.com.br/2016/09/24/especificacao-por-exemplo-3/)
+  - [By Martin Fowler](https://martinfowler.com/bliki/SpecificationByExample.html)
+  - [Livro](https://gojko.net/books/specification-by-example/)
 
 # Integração & Entrega Contínua / Deploy Contínuo
 
 # Teste Exploratório
+  - O que é?
+    - [By James Bach](http://www.satisfice.com/articles/what_is_et.shtml)
+    - [By Guru99](http://www.guru99.com/exploratory-testing.html)
+    - [By Agile Alliance](https://www.agilealliance.org/glossary/exploratory-testing/)
+    - [By Software Testing Class](http://www.softwaretestingclass.com/what-is-exploratory-testing/)
+
+  - [Elisabeth Hendrickson](http://testobsessed.com/)
+      - [Quem ela é](http://testobsessed.com/about/)
+      - [Livro](https://pragprog.com/book/ehxta/explore-it)
 
 # Acessibilidade
   - [Wave - Web](http://wave.webaim.org/)
