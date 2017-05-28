@@ -33,8 +33,51 @@
 
 # Mobile
 
+  - [Appium](http://appium.io/)
+    - [O que é](http://appium.io/getting-started.html?lang=en)
+    - [História](http://appium.io/history.html?lang=en)
+    - [Basic](http://bitbar.com/the-basics-of-mobile-web-testing-using-appium-selenium/)
+    - [Tutorial](http://appium.io/tutorial.html?lang=en)
+    - [Documentação](http://appium.io/slate/en/master/)
+    - [Exemplos](https://github.com/appium/sample-code/tree/master/sample-code/examples)
+    - [Livros]
+      - [Appium Essentials](http://appium.io/resources.html?lang=en)
+
+  - [Calabash](http://calaba.sh/)
+    - [Sunomono](https://github.com/concretesolutions/sunomono)
+
+  - [Robotium](https://github.com/robotiumtech/robotium)
+    - [Exemplo básico](http://www.createappfaster.com/android/robotium-simple-implementation/)
+    - [Tutorial](http://www.vogella.com/tutorials/Robotium/article.html)
+
 
 # Web
+  - [Page Object](https://github.com/SeleniumHQ/selenium/wiki/PageObjects)
+    - [Exemplo](http://www.seleniumeasy.com/selenium-tutorials/page-object-model-framework-introduction)
+    - [By Guru99](http://www.guru99.com/page-object-model-pom-page-factory-in-selenium-ultimate-guide.html)
+    - [By Martin Fowler](https://martinfowler.com/bliki/PageObject.html)
+    - [By ToolsQA](http://toolsqa.com/selenium-webdriver/page-object-model/)
+
+  - [Capybara](https://github.com/teamcapybara/capybara)
+    - [Site Prism](https://github.com/natritmeyer/site_prism)
+    - [Magneton](https://github.com/concretesolutions/magneton)
+
+  - [Selenium Webdriver](http://www.seleniumhq.org/projects/webdriver/)
+    - [Documentação](http://www.seleniumhq.org/docs/03_webdriver.jsp)
+    - [Considerações](http://www.seleniumhq.org/docs/06_test_design_considerations.jsp)
+
+  - [Protractor](http://www.protractortest.org/#/)
+    - [Tutorial](http://www.protractortest.org/#/tutorial)
+    - [Style Guide](http://www.protractortest.org/#/style-guide)
+    - [Debugging](https://github.com/angular/protractor/blob/master/docs/debugging.md)
+    - [Exemplo básico](https://github.com/angular/protractor/tree/master/example)
+    - [Configurações](https://github.com/angular/protractor/blob/master/lib/config.ts)
+    - [Elementos](https://github.com/angular/protractor/blob/master/lib/element.ts)
+    - [Locators](https://github.com/angular/protractor/blob/master/lib/locators.ts)
+    - [Livro](https://www.casadocodigo.com.br/products/livro-protractor)
+  - []()
+  - []()
+  - []()
 
 # API
 
@@ -48,6 +91,21 @@
 # Integração & Entrega Contínua / Deploy Contínuo
 
 # Teste Exploratório
+
+# Acessibilidade
+  - [Wave - Web](http://wave.webaim.org/)
+
+# Teste de Segurança
+  - [OWASP](https://www.owasp.org/index.php/Main_Page)
+  - [Burp](https://portswigger.net/burp/)
+  - [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
+  - [Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check)
+
+# Visual Regression Testing
+  - [Conceito](https://visualregressiontesting.com/)
+  - [Artigos](https://visualregressiontesting.com/articles.html)
+  - [Tools](https://visualregressiontesting.com/tools.html)
+  - [Vídeos](https://visualregressiontesting.com/videos.html)
 
 # Git
 - [Pro Git](https://progit.org/)
