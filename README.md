@@ -40,7 +40,7 @@
     - [Tutorial](http://appium.io/tutorial.html?lang=en)
     - [Documentação](http://appium.io/slate/en/master/)
     - [Exemplos](https://github.com/appium/sample-code/tree/master/sample-code/examples)
-    - [Livros]
+    - [Livros](https://www.gitbook.com/book/nishantverma/appium-for-android/details)
       - [Appium Essentials](http://appium.io/resources.html?lang=en)
 
   - [Calabash](http://calaba.sh/)
@@ -75,11 +75,31 @@
     - [Elementos](https://github.com/angular/protractor/blob/master/lib/element.ts)
     - [Locators](https://github.com/angular/protractor/blob/master/lib/locators.ts)
     - [Livro](https://www.casadocodigo.com.br/products/livro-protractor)
-  - []()
-  - []()
-  - []()
 
 # API
+  - Manualmente
+  - [Postman](https://www.getpostman.com/)
+  - [Fiddler](http://www.telerik.com/fiddler)
+  - [Curl](https://curl.haxx.se/)
+
+  - Automação
+    - Ruby
+      - [NetHTTP](https://apidock.com/ruby/Net/HTTP)
+      - [Rest Client](https://github.com/rest-client/rest-client)
+      - [Faraday](https://github.com/lostisland/faraday)
+      - [HttParty](https://github.com/jnunemaker/httparty)
+
+    - JS
+      - [Super Test](https://www.npmjs.com/package/supertest)
+      - [Chakram](http://dareid.github.io/chakram/)
+      - [Frisby](http://frisbyjs.com/)
+
+    - Java
+      - [Rest Assured](http://rest-assured.io/)
+
+    - Python
+      - [PyRestTest](https://github.com/svanoort/pyresttest)
+
 
 
 # BDD
@@ -98,8 +118,12 @@
 # Teste de Segurança
   - [OWASP](https://www.owasp.org/index.php/Main_Page)
   - [Burp](https://portswigger.net/burp/)
+    - [Iniciantes](http://blog.corujadeti.com.br/treinamento-de-burp-suite-para-iniciantes/)
   - [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
   - [Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check)
+  - [Nmap](https://nmap.org/)
+  - [HTTP Security Hearders](https://blog.appcanary.com/2017/http-security-headers.html)
+  - [secur1ty - web](https://secur1ty.com/grader)
 
 # Visual Regression Testing
   - [Conceito](https://visualregressiontesting.com/)
@@ -124,3 +148,12 @@
 
 
 # Comunidades
+  - [Agile Testers](http://agiletesters.com.br/)
+  - [GTS-MG](https://www.facebook.com/groups/gts.mg/)
+  - [DF-Testes](https://br.groups.yahoo.com/neo/groups/DFTestes/info)
+  - [GTC](https://www.facebook.com/groups/grupoDeTestesCarioca/?ref=bookmarks)
+  - [Quality Applied](https://www.facebook.com/groups/336893809728742/?ref=bookmarks)
+  - [GTS-DF](https://www.facebook.com/groups/QaProfessionalsBSB/?ref=bookmarks)
+  - [GUTS-SC](https://www.facebook.com/groups/guts.sc/?ref=bookmarks)
+  - [GTS-CE](https://www.facebook.com/groups/gts.ce/?ref=bookmarks)
+  - [GUTS-RS](http://guts-rs.blogspot.com.br/)
