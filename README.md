@@ -6,8 +6,13 @@
   - [Janet Gregory](http://janetgregory.ca/)
     - [Agile Testing não é uma metodologia](http://janetgregory.ca/agile-testing-is-not-a-methodology/)
 
+  - [Growing Agile](https://www.growingagile.co.za/)
+    - Um site de uma consultoria que faz diversos tipos de coaching incluindo Agile Testing, tem bastante conteúdos consideráveis, criado por duas mulheres Karen Greaves e Sam Laing.
+    - [Growing Agile: A Coach's Guide to Agile Testing](AgileTesting)
+
   - Livros
     - [Agile Testing](http://agiletester.ca/agile-testing/)
+      - [Mapa mental do livro](http://agiletester.ca/wp-content/uploads/sites/26/2013/09/AgileTestingFinalforBook.png)
     - [More Agile Testing](http://agiletester.ca/)
       - [Mapa mental do livro](http://agiletester.rumspeed.net/wp-content/uploads/sites/26/2014/09/More_Agile_Testing.png)
 
