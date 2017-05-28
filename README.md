@@ -1,10 +1,15 @@
 # Agile Testing
   - [Lisa Crispin](http://lisacrispin.com/)
+    - Lisa Crispin é uma das referências quando falamos sobre Agile Testing, além se ser ativa na comunidade até hoje tem bastante material publicado no seu site e nas redes sociais.
+    - [Posts](http://lisacrispin.com/post-archives)
 
   - [Janet Gregory](http://janetgregory.ca/)
     - [Agile Testing não é uma metodologia](http://janetgregory.ca/agile-testing-is-not-a-methodology/)
 
   - Livros
+    - [Agile Testing](http://agiletester.ca/agile-testing/)
+    - [More Agile Testing](http://agiletester.ca/)
+      - [Mapa mental do livro](http://agiletester.rumspeed.net/wp-content/uploads/sites/26/2014/09/More_Agile_Testing.png)
 
   - Eventos
     - [Agile Testing Day](https://agiletestingdays.com/)
