@@ -120,6 +120,30 @@
 
 # Integração & Entrega Contínua / Deploy Contínuo
 
+- O que é?
+  - [By Jez Humble](https://continuousdelivery.com/)
+
+- Livros
+  - [Entrega Contínua: Como Entregar Software de Forma Rápida e Confiável](https://www.amazon.com.br/Entrega-Cont%C3%ADnua-Entregar-Software-Confi%C3%A1vel/dp/8582601034)
+  - [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO)
+  - [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com/dp/1942788002?tag=contindelive-20)
+
+  - By Samanta Cicília
+    - [Continuous Delivery: Entregando Software de Valor](https://www.slideshare.net/samantacicilia/devops-carioca-continuous-delivery)
+    - [Continuous Delivery - versão estendida](https://www.slideshare.net/samantacicilia/continuous-delivery-verso-estendida)
+    - [Continuous Delivery & APIs - Evoluindo uma Arquitetura Orientada a Serviços](https://www.slideshare.net/samantacicilia/continuous-delivery-apis-evoluindo-uma-arquitetura-orientada-a-servios)
+
+  - Ferramentas de Integração Contínua
+    - [Jenkins](https://jenkins.io/)
+    - [CircleCI](https://circleci.com/)
+    - [Travis CI](https://travis-ci.org/)
+    - [Semaphore CI](https://semaphoreci.com/)
+
+  - Ferramentas de Entrega Contínua
+    - [GoCD](https://www.gocd.io/)
+    - [Snap CI](https://www.snap-ci.com/)
+
+
 # Teste Exploratório
   - O que é?
     - [By James Bach](http://www.satisfice.com/articles/what_is_et.shtml)
