@@ -104,6 +104,9 @@
 
 # BDD
 
+- [O que é](https://dannorth.net/introducing-bdd/)
+  - By Dan North
+
 # ATDD
   - [Conceito](http://testobsessed.com/wp-content/uploads/2011/04/atddexample.pdf)
   - [Passo a Passo](https://www.infoq.com/br/articles/atdd-passo-a-passo)
@@ -143,6 +146,7 @@
   - [GoCD](https://www.gocd.io/)
   - [Snap CI](https://www.snap-ci.com/)
 
+# DevOps
 
 # Teste Exploratório
   - O que é?
