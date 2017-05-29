@@ -204,3 +204,7 @@
   - [GUTS-SC](https://www.facebook.com/groups/guts.sc/?ref=bookmarks)
   - [GTS-CE](https://www.facebook.com/groups/gts.ce/?ref=bookmarks)
   - [GUTS-RS](http://guts-rs.blogspot.com.br/)
+
+# Livros Gratuitos
+
+- [PacktPub ](https://www.packtpub.com/packt/offers/free-learning)  
