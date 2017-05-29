@@ -1,3 +1,8 @@
+# Agile
+ - [Scrum Guides](http://www.scrumguides.org/)
+ - [A Startup Enxuta](https://www.amazon.com.br/Startup-Enxuta-Eric-Ries-ebook/dp/B00A3C4GAK/)
+ - [Learning Agile: Understanding Scrum, XP, Lean, and Kanban](https://www.amazon.com.br/Learning-Agile-Understanding-Scrum-Kanban-ebook/dp/B00PJ8YKRM/)
+
 # Agile Testing
 
   - [O que é?](https://www.concretesolutions.com.br/2017/02/20/agile-testing-o-que-e/)
@@ -31,6 +36,25 @@
     - [By Guru99](http://www.guru99.com/agile-scrum-extreme-testing.html)
     - [By Frederico Moreira](http://www.fredmoreira.com/2014/08/50centsagiletesting.html)
 
+# BDD
+
+  - [O que é](https://dannorth.net/introducing-bdd/)
+    - By Dan North
+
+# ATDD
+  - [Conceito](http://testobsessed.com/wp-content/uploads/2011/04/atddexample.pdf)
+  - [Passo a Passo](https://www.infoq.com/br/articles/atdd-passo-a-passo)
+  - [Livro](https://www.amazon.com/ATDD-Example-Test-Driven-Development-Addison-Wesley/dp/0321784154)
+
+# Especificação por Exemplo
+  - [Gojko Adzic](https://gojko.net/books/specification-by-example/)
+  - By Samanta Cicília
+    - [Parte 1](https://www.concretesolutions.com.br/2016/09/22/especificacao-por-exemplo-1/)
+    - [Parte 2](https://www.concretesolutions.com.br/2016/09/23/especificacao-por-exemplo-2/)
+    - [Parte 3](https://www.concretesolutions.com.br/2016/09/24/especificacao-por-exemplo-3/)
+  - [By Martin Fowler](https://martinfowler.com/bliki/SpecificationByExample.html)
+  - [Livro](https://gojko.net/books/specification-by-example/)
+
 # Mobile
 
   - [Appium](http://appium.io/)
@@ -45,18 +69,18 @@
 
   - [Calabash](http://calaba.sh/)
     - [Sunomono](https://github.com/concretesolutions/sunomono)
-    
+
     - [Calabash IOS](https://github.com/calabash/calabash-ios)
      - [Calabash Framework](https://github.com/calabash/calabash-ios-server)
      - [Run loop](https://github.com/calabash/run_loop)
      - [Query Syntax](https://github.com/calabash/calabash-ios/wiki/Query-Language)
      - [Web view support](https://github.com/calabash/calabash-ios/wiki/06-WebView-Support)
-     
+
     - [Calabash Android](https://github.com/calabash/calabash-android)
      - [Calabash Android Server](https://github.com/calabash/calabash-android-server)
      - [Query Syntax](https://github.com/calabash/calabash-android/wiki/05-Query-Syntax)
      - [Web view support](https://github.com/calabash/calabash-android/wiki/06-webview-support)
-    
+
 
   - [Robotium](https://github.com/robotiumtech/robotium)
     - [Exemplo básico](http://www.createappfaster.com/android/robotium-simple-implementation/)
@@ -111,27 +135,6 @@
 
     - Python
       - [PyRestTest](https://github.com/svanoort/pyresttest)
-
-
-
-# BDD
-
-- [O que é](https://dannorth.net/introducing-bdd/)
-  - By Dan North
-
-# ATDD
-  - [Conceito](http://testobsessed.com/wp-content/uploads/2011/04/atddexample.pdf)
-  - [Passo a Passo](https://www.infoq.com/br/articles/atdd-passo-a-passo)
-  - [Livro](https://www.amazon.com/ATDD-Example-Test-Driven-Development-Addison-Wesley/dp/0321784154)
-
-# Especificação por Exemplo
-  - [Gojko Adzic](https://gojko.net/books/specification-by-example/)
-  - By Samanta Cicília
-    - [Parte 1](https://www.concretesolutions.com.br/2016/09/22/especificacao-por-exemplo-1/)
-    - [Parte 2](https://www.concretesolutions.com.br/2016/09/23/especificacao-por-exemplo-2/)
-    - [Parte 3](https://www.concretesolutions.com.br/2016/09/24/especificacao-por-exemplo-3/)
-  - [By Martin Fowler](https://martinfowler.com/bliki/SpecificationByExample.html)
-  - [Livro](https://gojko.net/books/specification-by-example/)
 
 # Integração & Entrega Contínua / Deploy Contínuo
 
@@ -199,12 +202,6 @@
    - Uma lista com vários comandos úteis no dia-a-dia
  - [Git Style Guide](https://github.com/agis-/git-style-guide)
    - Um guia com diversas boas práticas relacionadas ao Git
-
-# Agile
- - [Scrum Guides](http://www.scrumguides.org/)
- - [A Startup Enxuta](https://www.amazon.com.br/Startup-Enxuta-Eric-Ries-ebook/dp/B00A3C4GAK/)
- - [Learning Agile: Understanding Scrum, XP, Lean, and Kanban](https://www.amazon.com.br/Learning-Agile-Understanding-Scrum-Kanban-ebook/dp/B00PJ8YKRM/)
-
 
 # Comunidades
   - [Agile Testers](http://agiletesters.com.br/)
