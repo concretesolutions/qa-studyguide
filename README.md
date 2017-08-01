@@ -192,6 +192,7 @@
   - [Artigos](https://visualregressiontesting.com/articles.html)
   - [Tools](https://visualregressiontesting.com/tools.html)
   - [Vídeos](https://visualregressiontesting.com/videos.html)
+  - [Exemplos de Ferramentas] (https://github.com/samycici/visual-regression-tools)
 
 # Git
 - [Pro Git](https://progit.org/)
