@@ -184,7 +184,7 @@
   - [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
   - [Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check)
   - [Nmap](https://nmap.org/)
-  - [HTTP Security Hearders](https://blog.appcanary.com/2017/http-security-headers.html)
+  - [HTTP Security Headers](https://blog.appcanary.com/2017/http-security-headers.html)
   - [secur1ty - web](https://secur1ty.com/grader)
 
 # Visual Regression Testing
