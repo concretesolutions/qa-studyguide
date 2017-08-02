@@ -225,6 +225,7 @@
   - [12 Quality Assurance](https://soundcloud.com/concretebr/prodcast-12-quality-assurance)
   - [15 DevOps](https://soundcloud.com/concretebr/prodcast-15-devops)
   - [29 QA](https://soundcloud.com/concretebr/episodio-29-qa)
+  - [34 Organização de eventos de tecnologia](https://soundcloud.com/concretebr/prodcast-34-eventos-de-tecnologia)
 
 - [Cucumber Podcast](https://itunes.apple.com/gb/podcast/cucumber-podcast-rss/id1078896635)
 
@@ -232,18 +233,23 @@
   - [1 Certificações em Teste de Software](https://soundcloud.com/testcastbrasil/testcast-01-certificacoes-em-teste-de-software)
   - [2 Agile Testers Conference 2017 - Brasília](https://soundcloud.com/testcastbrasil/testcast-02-agile-testers-conference-2017-brasilia)
   - [3 O mercado Teste e Qualidade de Software no Brasil e no mundo](https://soundcloud.com/testcastbrasil/testcast-03-mercado-de-teste-brasil-mundo)
+  - [4 Testes em Dispositivos Móveis](https://soundcloud.com/testcastbrasil/testcast-04-testes-em-dispositivos-moveis)
 
 - [Testing Podcast](https://testingpodcast.com/)  
 
 - [Hipster.tech da Alura](http://hipsters.tech/)
   - [5 Agilidade](http://hipsters.tech/agilidade-hipsters-05/)
   - [19 Xamarin Multiplataforma](http://hipsters.tech/xamarin-desenvolvimento-multiplataforma/)
-  - [21 Acessibilidade web](http://hipsters.tech/acessibilidade-web-hipsters-21/)
+  - [21 Acessibilidade Web](http://hipsters.tech/acessibilidade-web-hipsters-21/)
   - [41 Tecnologias da Netflix](http://hipsters.tech/tecnologias-na-netflix-hipsters-41/)
-  - [43 Mulheres na tecnologia](http://hipsters.tech/mulheres-na-tecnologia-hipsters-34/)
+  - [43 Mulheres na Tecnologia](http://hipsters.tech/mulheres-na-tecnologia-hipsters-34/)
   - [49 MVP](http://hipsters.tech/mvp-produto-minimo-viavel-hipsters-49/)
+  - [51 Testes Automatizados](http://hipsters.tech/testes-automatizados-hipsters-51/)
+  - [54 Scrum: do zero ao Sprint](http://hipsters.tech/scrum-do-zero-ao-sprint-hipsters-54/)
 
 - [Dev na estrada](http://devnaestrada.com.br/)
   - [12 A importância dos Eventos](https://soundcloud.com/devnaestrada/devnaestrada-12-a-importancia-dos-eventos)
   - [17 Mulheres no comando](https://soundcloud.com/devnaestrada/devnaestrada-17-mulheres-no-comando)
   - [44 Cultura Agile](http://devnaestrada.com.br/2016/03/11/devnaestrada-um-pouco-de-agile.html)
+  - [93 Ida ao trabalho ](http://devnaestrada.com.br/2017/02/24/ida-ao-trabalho.html)
+  - [102 D.O.M](http://devnaestrada.com.br/2017/04/28/dom.html)
