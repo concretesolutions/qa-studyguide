@@ -222,26 +222,26 @@
 # Podcasts
 
 - [Prodcast Concrete](https://soundcloud.com/concretebr)  
-  - [#12 - Quality Assurance](https://soundcloud.com/concretebr/prodcast-12-quality-assurance)
-  - [#15 - DevOps](https://soundcloud.com/concretebr/prodcast-15-devops)
-  - [#29 - QA](https://soundcloud.com/concretebr/episodio-29-qa)
+  - [12 Quality Assurance](https://soundcloud.com/concretebr/prodcast-12-quality-assurance)
+  - [15 DevOps](https://soundcloud.com/concretebr/prodcast-15-devops)
+  - [29 QA](https://soundcloud.com/concretebr/episodio-29-qa)
 
 - [Cucumber Podcast](https://itunes.apple.com/gb/podcast/cucumber-podcast-rss/id1078896635)
 
 - [TestCast Brasil](https://soundcloud.com/testcastbrasil)
-  - [1) Certificações em Teste de Software](https://soundcloud.com/testcastbrasil/testcast-01-certificacoes-em-teste-de-software)
-  - [2) Agile Testers Conference 2017 - Brasília](https://soundcloud.com/testcastbrasil/testcast-02-agile-testers-conference-2017-brasilia)
-  - [3) O mercado Teste e Qualidade de Software no Brasil e no mundo](https://soundcloud.com/testcastbrasil/testcast-03-mercado-de-teste-brasil-mundo)
+  - [1 Certificações em Teste de Software](https://soundcloud.com/testcastbrasil/testcast-01-certificacoes-em-teste-de-software)
+  - [2 Agile Testers Conference 2017 - Brasília](https://soundcloud.com/testcastbrasil/testcast-02-agile-testers-conference-2017-brasilia)
+  - [3 O mercado Teste e Qualidade de Software no Brasil e no mundo](https://soundcloud.com/testcastbrasil/testcast-03-mercado-de-teste-brasil-mundo)
 
 - [Testing Podcast](https://testingpodcast.com/)  
 
 - [Hipster.tech da Alura](http://hipsters.tech/)
-  - [#5 Agilidade](http://hipsters.tech/agilidade-hipsters-05/)
-  - [#19 Xamarin Multiplataforma](http://hipsters.tech/xamarin-desenvolvimento-multiplataforma/)
-  - [#21 Acessibilidade web](http://hipsters.tech/acessibilidade-web-hipsters-21/)
-  - [#41 Tecnoligias da Netflix](http://hipsters.tech/tecnologias-na-netflix-hipsters-41/)
-  - [#43 Mulheres na tecnologia](http://hipsters.tech/mulheres-na-tecnologia-hipsters-34/)
-  - [#49 MVP](http://hipsters.tech/mvp-produto-minimo-viavel-hipsters-49/)
+  - [5 Agilidade](http://hipsters.tech/agilidade-hipsters-05/)
+  - [19 Xamarin Multiplataforma](http://hipsters.tech/xamarin-desenvolvimento-multiplataforma/)
+  - [21 Acessibilidade web](http://hipsters.tech/acessibilidade-web-hipsters-21/)
+  - [41 Tecnologias da Netflix](http://hipsters.tech/tecnologias-na-netflix-hipsters-41/)
+  - [43 Mulheres na tecnologia](http://hipsters.tech/mulheres-na-tecnologia-hipsters-34/)
+  - [49 MVP](http://hipsters.tech/mvp-produto-minimo-viavel-hipsters-49/)
 
 - [Dev na estrada](http://devnaestrada.com.br/)
   - [12 A importância dos Eventos](https://soundcloud.com/devnaestrada/devnaestrada-12-a-importancia-dos-eventos)
