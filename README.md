@@ -226,6 +226,7 @@
   - [15 DevOps](https://soundcloud.com/concretebr/prodcast-15-devops)
   - [29 QA](https://soundcloud.com/concretebr/episodio-29-qa)
   - [34 Organização de eventos de tecnologia](https://soundcloud.com/concretebr/prodcast-34-eventos-de-tecnologia)
+  - [40 Scrum](https://soundcloud.com/concretebr/episodio-40-scrum)
 
 - [Cucumber Podcast](https://itunes.apple.com/gb/podcast/cucumber-podcast-rss/id1078896635)
 
@@ -234,6 +235,7 @@
   - [2 Agile Testers Conference 2017 - Brasília](https://soundcloud.com/testcastbrasil/testcast-02-agile-testers-conference-2017-brasilia)
   - [3 O mercado Teste e Qualidade de Software no Brasil e no mundo](https://soundcloud.com/testcastbrasil/testcast-03-mercado-de-teste-brasil-mundo)
   - [4 Testes em Dispositivos Móveis](https://soundcloud.com/testcastbrasil/testcast-04-testes-em-dispositivos-moveis)
+  - [5 Agile Testing](https://soundcloud.com/testcastbrasil/testcast-05-agile-testing)
 
 - [Testing Podcast](https://testingpodcast.com/)  
 
@@ -246,6 +248,8 @@
   - [49 MVP](http://hipsters.tech/mvp-produto-minimo-viavel-hipsters-49/)
   - [51 Testes Automatizados](http://hipsters.tech/testes-automatizados-hipsters-51/)
   - [54 Scrum: do zero ao Sprint](http://hipsters.tech/scrum-do-zero-ao-sprint-hipsters-54/)
+  - [59 Teste A/B](https://hipsters.tech/testes-ab-hipsters-59/)
+  - [64 Pull Request e Code Review](https://hipsters.tech/pull-requests-e-code-review-hipsters-64/)
 
 - [Dev na estrada](http://devnaestrada.com.br/)
   - [12 A importância dos Eventos](https://soundcloud.com/devnaestrada/devnaestrada-12-a-importancia-dos-eventos)
@@ -253,3 +257,5 @@
   - [44 Cultura Agile](http://devnaestrada.com.br/2016/03/11/devnaestrada-um-pouco-de-agile.html)
   - [93 Ida ao trabalho ](http://devnaestrada.com.br/2017/02/24/ida-ao-trabalho.html)
   - [102 D.O.M](http://devnaestrada.com.br/2017/04/28/dom.html)
+  - [118 Hábitos do desenvolvedor](http://devnaestrada.com.br/2017/08/18/habitos-do-desenvolvedor.html)
+  - [123 Minas que codam](http://devnaestrada.com.br/2017/09/22/minas-que-codam.html)
