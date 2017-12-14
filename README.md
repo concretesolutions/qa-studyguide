@@ -189,6 +189,7 @@
   - [Nmap](https://nmap.org/)
   - [HTTP Security Hearders](https://blog.appcanary.com/2017/http-security-headers.html)
   - [secur1ty - web](https://secur1ty.com/grader)
+  - [Guide to API Security Testing](https://resource.cobalt.io/guide-to-api-security-testing)
 
 # Visual Regression Testing
   - [Conceito](https://visualregressiontesting.com/)
