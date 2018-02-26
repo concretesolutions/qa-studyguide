@@ -181,7 +181,7 @@
   - [Writing Automated Tests for Accessibility](https://www.24a11y.com/2017/writing-automated-tests-accessibility/)
   - [Mobile Testing Guide
 ANDROID & iOS](https://developer.paciellogroup.com/downloads/TPG_Mobile_Testing_Guide.pdf)
-  - [BBC - MOBILE ACCESSIBILITY GUIDELINES](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile) 
+  - [BBC - MOBILE ACCESSIBILITY GUIDELINES](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile) 
 
 # Teste de Segurança
   - [OWASP](https://www.owasp.org/index.php/Main_Page)
