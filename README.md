@@ -161,7 +161,6 @@
 
 - Ferramentas de Entrega Contínua
   - [GoCD](https://www.gocd.io/)
-  - [Snap CI](https://www.snap-ci.com/)
 
 # DevOps
 
