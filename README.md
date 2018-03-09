@@ -103,7 +103,6 @@
     - [By ToolsQA](http://toolsqa.com/selenium-webdriver/page-object-model/)
 
   - [Capybara](https://github.com/teamcapybara/capybara)
-    - [Documentação](https://github.com/teamcapybara/capybara)
     - [Site Prism](https://github.com/natritmeyer/site_prism)
     - [Magneton](https://github.com/concretesolutions/magneton)
     - [By Thiago Marques](https://github.com/thiagomarquessp/capybaraforall)
