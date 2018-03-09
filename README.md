@@ -103,8 +103,10 @@
     - [By ToolsQA](http://toolsqa.com/selenium-webdriver/page-object-model/)
 
   - [Capybara](https://github.com/teamcapybara/capybara)
+    - [Documentação](https://github.com/teamcapybara/capybara)
     - [Site Prism](https://github.com/natritmeyer/site_prism)
     - [Magneton](https://github.com/concretesolutions/magneton)
+    - [By Thiago Marques](https://github.com/thiagomarquessp/capybaraforall)
 
   - [Selenium Webdriver](http://www.seleniumhq.org/projects/webdriver/)
     - [Documentação](http://www.seleniumhq.org/docs/03_webdriver.jsp)
@@ -231,7 +233,11 @@ ANDROID & iOS](https://developer.paciellogroup.com/downloads/TPG_Mobile_Testing_
 
 # Livros Gratuitos
 
-- [PacktPub ](https://www.packtpub.com/packt/offers/free-learning)  
+- [PacktPub](https://www.packtpub.com/packt/offers/free-learning)  
+
+# Cursos Gratuitos
+
+- [Introdução aos Testes Automatizados - By Walmyr Filho](http://talkingabouttesting.coursify.me/courses/introducao-aos-testes-automatizados)
 
 # Podcasts
 
