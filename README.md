@@ -201,6 +201,7 @@ ANDROID & iOS](https://developer.paciellogroup.com/downloads/TPG_Mobile_Testing_
   - [HTTP Security Hearders](https://blog.appcanary.com/2017/http-security-headers.html)
   - [secur1ty - web](https://secur1ty.com/grader)
   - [Guide to API Security Testing](https://resource.cobalt.io/guide-to-api-security-testing)
+  - [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg)
 
 # Visual Regression Testing
   - [Conceito](https://visualregressiontesting.com/)
