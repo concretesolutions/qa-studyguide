@@ -72,6 +72,7 @@
     - [Tutorial](http://appium.io/tutorial.html?lang=en)
     - [Documentação](http://appium.io/slate/en/master/)
     - [Exemplos](https://github.com/appium/sample-code/tree/master/sample-code/examples)
+    - [Awesome Appium](https://github.com/SrinivasanTarget/awesome-appium)
     - [Livros](https://www.gitbook.com/book/nishantverma/appium-for-android/details)
       - [Appium Essentials](http://appium.io/resources.html?lang=en)
 
