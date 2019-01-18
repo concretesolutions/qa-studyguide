@@ -134,6 +134,7 @@
       - [Rest Client](https://github.com/rest-client/rest-client)
       - [Faraday](https://github.com/lostisland/faraday)
       - [HttParty](https://github.com/jnunemaker/httparty)
+      - [HttParty - André Azevedo](https://github.com/andreluaz/httparty-contrato)
 
     - JS
       - [Super Test](https://www.npmjs.com/package/supertest)
