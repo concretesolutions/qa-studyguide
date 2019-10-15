@@ -288,6 +288,11 @@ ANDROID & iOS](https://developer.paciellogroup.com/downloads/TPG_Mobile_Testing_
   - [147 Infra as Code](https://devnaestrada.com.br/2018/03/09/infra-as-code.html)
   - [170 Sistemas Legados](https://devnaestrada.com.br/2018/08/17/sistemas-legados.html)
   - [175 CNV: Comunicação Não Violenta](https://devnaestrada.com.br/2018/09/21/comunicacao-nao-violenta.html)
+  - [195 Estimativas](https://devnaestrada.com.br/2019/03/01/estimativas.html)
+  - [196 É hora da retrospectiva](https://devnaestrada.com.br/2019/03/08/e-hora-da-retrospectiva.html)
+  - [197 Ownership](https://devnaestrada.com.br/2019/03/15/ownership.html)
+  - [203 Microserviços](https://devnaestrada.com.br/2019/04/26/microservicos.html)
+  - [206 Especialista full-stack](https://devnaestrada.com.br/2019/05/17/especialista-fullstack.html)
 
 - [Cucumber Podcast](https://itunes.apple.com/gb/podcast/cucumber-podcast-rss/id1078896635)
 
