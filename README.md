@@ -276,6 +276,10 @@ ANDROID & iOS](https://developer.paciellogroup.com/downloads/TPG_Mobile_Testing_
   - [#93 Mitos de UX](https://hipsters.tech/mitos-de-ux-hipsters-93/)
   - [#97 Vida de Consultoria](https://hipsters.tech/vida-de-consultoria-hipsters-97/)
   - [#115 Scrum e Agile para além de Tecnologia](https://hipsters.tech/scrum-e-agile-para-alem-de-tecnologia-hipsters-115/)
+  - [#131 Qualidade e Software](https://hipsters.tech/qualidade-e-software-no-itau-hipsters-131/)
+  - [#149 Squads e Agilidade](https://hipsters.tech/squads-e-agilidade-no-magazine-luiza-hipsters-ponto-tech-149/)
+  - [#154 Testes de Software e Inteligência Artificial](https://hipsters.tech/testes-de-software-e-inteligencia-artificial-hipsters-154/)
+  - [#168 Cultura de Aprendizado](https://hipsters.tech/cultura-de-aprendizado-hipsters-168/)
 
 - [Dev na estrada](http://devnaestrada.com.br/)
   - [12 A importância dos Eventos](https://soundcloud.com/devnaestrada/devnaestrada-12-a-importancia-dos-eventos)
