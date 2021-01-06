@@ -46,7 +46,7 @@
 # ATDD
   - [Conceito](http://testobsessed.com/wp-content/uploads/2011/04/atddexample.pdf)
   - [Passo a Passo](https://www.infoq.com/br/articles/atdd-passo-a-passo)
-  - [Livro](https://www.amazon.com/ATDD-Example-Test-Driven-Development-Addison-Wesley/dp/0321784154)
+  - [Livro](https://www.amazon.com.br/ATDD-Example-Test-Driven-Development-Addison-Wesley-ebook/dp/B008G1H3EG)
 
 # Especificação por Exemplo
   - [Gojko Adzic](https://gojko.net/books/specification-by-example/)
@@ -300,4 +300,4 @@ ANDROID & iOS](https://developer.paciellogroup.com/downloads/TPG_Mobile_Testing_
 
 - [Cucumber Podcast](https://itunes.apple.com/gb/podcast/cucumber-podcast-rss/id1078896635)
 
-- [Testing Podcast](https://testingpodcast.com/)  
+- [Testing Podcast](https://testingpodcast.com/)
