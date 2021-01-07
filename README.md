@@ -1,6 +1,6 @@
 # Agile
  - [Scrum Guides](http://www.scrumguides.org/)
- - [A Startup Enxuta](https://www.amazon.com.br/Startup-Enxuta-Eric-Ries-ebook/dp/B00A3C4GAK/)
+ - [A Startup Enxuta](https://www.amazon.com.br/startup-enxuta-Eric-Ries/dp/8543108624)
  - [Learning Agile: Understanding Scrum, XP, Lean, and Kanban](https://www.amazon.com.br/Learning-Agile-Understanding-Scrum-Kanban-ebook/dp/B00PJ8YKRM/)
 
 # Agile Testing
@@ -20,7 +20,6 @@
   - [Growing Agile](https://www.growingagile.co.za/)
     - Um site de uma consultoria que faz diversos tipos de coaching incluindo Agile Testing, tem bastante conteúdos consideráveis, criado por duas mulheres Karen Greaves e Sam Laing.
     - [Growing Agile: A Coach's Guide to Agile Testing](AgileTesting)
-    
 
   - [Pirâmide de Testes](https://martinfowler.com/articles/practical-test-pyramid.html)
 
@@ -47,7 +46,7 @@
 # ATDD
   - [Conceito](http://testobsessed.com/wp-content/uploads/2011/04/atddexample.pdf)
   - [Passo a Passo](https://www.infoq.com/br/articles/atdd-passo-a-passo)
-  - [Livro](https://www.amazon.com/ATDD-Example-Test-Driven-Development-Addison-Wesley/dp/0321784154)
+  - [Livro](https://www.amazon.com.br/ATDD-Example-Test-Driven-Development-Addison-Wesley-ebook/dp/B008G1H3EG)
 
 # Especificação por Exemplo
   - [Gojko Adzic](https://gojko.net/books/specification-by-example/)
@@ -66,11 +65,11 @@
 # Mobile
 
   - [Appium](http://appium.io/)
-    - [O que é](http://appium.io/getting-started.html?lang=en)
+    - [O que é](http://appium.io/docs/en/about-appium/getting-started/?lang=en)
     - [História](http://appium.io/history.html?lang=en)
     - [Basic](http://bitbar.com/the-basics-of-mobile-web-testing-using-appium-selenium/)
     - [Tutorial](http://appium.io/tutorial.html?lang=en)
-    - [Documentação](http://appium.io/slate/en/master/)
+    - [Documentação](http://appium.io/docs/en/about-appium/intro/)
     - [Exemplos](https://github.com/appium/sample-code/tree/master/sample-code/examples)
     - [Awesome Appium](https://github.com/SrinivasanTarget/awesome-appium)
     - [Livros](https://www.gitbook.com/book/nishantverma/appium-for-android/details)
@@ -156,7 +155,7 @@
 
 - Livros
   - [Entrega Contínua: Como Entregar Software de Forma Rápida e Confiável](https://www.amazon.com.br/Entrega-Cont%C3%ADnua-Entregar-Software-Confi%C3%A1vel/dp/8582601034)
-  - [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO)
+  - [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com.br/Phoenix-Project-DevOps-Helping-Business/dp/1942788290)
   - [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com/dp/1942788002?tag=contindelive-20)
 
 - By Samanta Cicília
@@ -191,7 +190,8 @@
   - [Writing Automated Tests for Accessibility](https://www.24a11y.com/2017/writing-automated-tests-accessibility/)
   - [Mobile Testing Guide
 ANDROID & iOS](https://developer.paciellogroup.com/downloads/TPG_Mobile_Testing_Guide.pdf)
-  - [BBC - MOBILE ACCESSIBILITY GUIDELINES](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile)
+  - [BBC - MOBILE ACCESSIBILITY GUIDELINES](https://www.bbc.co.uk/accessibility/forproducts/guides/mobile/)
+  - [Awesome A11y](https://github.com/brunopulis/awesome-a11y)
 
 # Teste de Segurança
   - [OWASP](https://www.owasp.org/index.php/Main_Page)
@@ -235,7 +235,7 @@ ANDROID & iOS](https://developer.paciellogroup.com/downloads/TPG_Mobile_Testing_
 
 # Livros Gratuitos
 
-- [PacktPub](https://www.packtpub.com/packt/offers/free-learning)  
+- [PacktPub](https://www.packtpub.com/packt/offers/free-learning)
 
 # Cursos Gratuitos
 
@@ -243,7 +243,7 @@ ANDROID & iOS](https://developer.paciellogroup.com/downloads/TPG_Mobile_Testing_
 
 # Podcasts
 
-- [Prodcast Concrete](https://soundcloud.com/concretebr)  
+- [Prodcast Concrete](https://soundcloud.com/concretebr)
   - [#12 - Quality Assurance](https://soundcloud.com/concretebr/prodcast-12-quality-assurance)
   - [#15 - DevOps](https://soundcloud.com/concretebr/prodcast-15-devops)
   - [#29 - QA](https://soundcloud.com/concretebr/episodio-29-qa)
@@ -300,4 +300,4 @@ ANDROID & iOS](https://developer.paciellogroup.com/downloads/TPG_Mobile_Testing_
 
 - [Cucumber Podcast](https://itunes.apple.com/gb/podcast/cucumber-podcast-rss/id1078896635)
 
-- [Testing Podcast](https://testingpodcast.com/)  
+- [Testing Podcast](https://testingpodcast.com/)
