@@ -51,9 +51,9 @@
 # Especificação por Exemplo
   - [Gojko Adzic](https://gojko.net/books/specification-by-example/)
   - By Samanta Cicília
-    - [Parte 1](https://www.concretesolutions.com.br/2016/09/22/especificacao-por-exemplo-1/)
-    - [Parte 2](https://www.concretesolutions.com.br/2016/09/23/especificacao-por-exemplo-2/)
-    - [Parte 3](https://www.concretesolutions.com.br/2016/09/24/especificacao-por-exemplo-3/)
+    - [Parte 1](https://imasters.com.br/desenvolvimento/especificacao-por-exemplo-como-ela-e-parte-01)
+    - [Parte 2](https://imasters.com.br/desenvolvimento/especificacao-por-exemplo-como-ela-e-parte-02)
+    - [Parte 3](https://imasters.com.br/desenvolvimento/especificacao-por-exemplo-como-ela-e-parte-03)
   - [By Martin Fowler](https://martinfowler.com/bliki/SpecificationByExample.html)
   - [Livro](https://gojko.net/books/specification-by-example/)
 
